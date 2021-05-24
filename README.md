@@ -15,16 +15,12 @@
 - 🛢 &nbsp; Databases: PostgreSQL || Firabase 
 <br>
 
-<div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=klimenkoff9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="klimenkoff9's Github Stats">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimenkoff9&layout=compact&text_color=daf7dc&bg_color=151515" alt="klimenkoff9's Github Most Used Languages">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=klimenkoff9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="klimenkoff9's Github Stats">
+<br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimenkoff9&layout=compact&text_color=daf7dc&bg_color=151515" alt="klimenkoff9's Github Most Used Languages">
 </div>
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 <br></br>
 
 <div align="center">
