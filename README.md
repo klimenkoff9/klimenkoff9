@@ -1,5 +1,5 @@
 <h2> Hey visitor, I'm Dennis! Welcome to my profile page. Make yourself at home here! 👋&nbsp</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
