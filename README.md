@@ -3,16 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently practising my skills by developing TypeScript applications.
-- 🤔 &nbsp; Building applications that make our daily life better and simplier. 
+- 🔭 &nbsp; Currently getting professional expirience as a Software Engineering Intern at the Washington Post.
+- 🤔 &nbsp; Building applications that make our daily life better and simplier during my free time. 
 - 🎓 &nbsp; Computer Science student with graduation date May 2022.
-- 💼 &nbsp; Currently working as Software Engeneering Intern at The Washington Post. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Frontend: React.js || Next.js || Redux || Context
-- 🌐 &nbsp; Backend: Node.js || Express.js || TypeScript || Rest || GraphQL
-- 🛢 &nbsp; Databases: PostgreSQL || Firabase 
+- 💻 &nbsp; Frontend: Typescipt || React.js || Next.js || Redux || Tailwind 
+- 🌐 &nbsp; Backend: Node.js || Express.js || Python || Django
+- 🛢 &nbsp; Databases: PostgreSQL || SQLite || MySQL || Firebase
 <br>
 
 <div>
