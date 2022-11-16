@@ -3,15 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently getting professional expirience as a Software Engineering Intern at the Washington Post.
+- 🔭 &nbsp; Software Engineer at The Washington Post
 - 🤔 &nbsp; Building applications that make our daily life better and simplier during my free time. 
-- 🎓 &nbsp; Computer Science student with graduation date May 2022.
+- 🎓 &nbsp; Brooklyn College Computer Science 2022 Graduate.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Frontend: Typescipt || React.js || Next.js || Redux || Tailwind 
-- 🌐 &nbsp; Backend: Node.js || Express.js || Python || Django
-- 🛢 &nbsp; Databases: PostgreSQL || SQLite || MySQL || Firebase
+- 💻 &nbsp; Frontend: Typescipt || JavaScript || React
+- 🌐 &nbsp; Backend: NodeJS || Java || Django
+- 
 <br>
 
 <div>
