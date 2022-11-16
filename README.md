@@ -11,7 +11,6 @@
 
 - 💻 &nbsp; Frontend: Typescipt || JavaScript || React
 - 🌐 &nbsp; Backend: NodeJS || Java || Django
-- 
 <br>
 
 <div>
