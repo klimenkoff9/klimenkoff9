@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Software Engineer 2 at The Washington Post
+- 🔭 &nbsp; Senior Software Engineer at The Washington Post
 
 <div align="center">
 <h3> 🤝🏻 Connect with Me </h3>
